@@ -1,0 +1,8 @@
+.Language=English,English (English)
+.PluginContents=HelloFar
+
+@Contents
+$ #HelloFar#
+
+This is my first test plugin for Far Manager.
+It's just show message "Hello".

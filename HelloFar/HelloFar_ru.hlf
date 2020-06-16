@@ -1,0 +1,8 @@
+﻿.Language=Russian,Russian (Русский)
+.PluginContents=HelloFar
+
+@Contents
+$ #HelloFar#
+
+Это мой первый пробный плагин для Far Manager.
+Он просто печатает сообщение "Привет".
